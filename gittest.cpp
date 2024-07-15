@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::string gittests= "GITTEST";
+    std::string gittests= "second test of gittest";
     std::cout << gittests << std::endl;
     return 0;
 }
